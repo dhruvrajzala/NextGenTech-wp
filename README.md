@@ -2,7 +2,7 @@
 
 ## View
 
-View my work : https://nextgentechin.000webhostapp.com/
+Visit my work : https://nextgentechin.000webhostapp.com/
 
 ## Overview
 NextGen Tech is an IT company website created using WordPress and its plugins, including Elementor. This website serves as a digital presence for NextGen Tech, showcasing its expertise in this growing IT world. This README file provides an overview of the website.
